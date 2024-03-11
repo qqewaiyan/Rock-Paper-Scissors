@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Someindex\Someindex\bin\Debug\net8.0\Someindex.exe
+C:\Users\ASUS\source\repos\Someindex\Someindex\bin\Debug\net8.0\Someindex.deps.json
+C:\Users\ASUS\source\repos\Someindex\Someindex\bin\Debug\net8.0\Someindex.runtimeconfig.json
+C:\Users\ASUS\source\repos\Someindex\Someindex\bin\Debug\net8.0\Someindex.dll
+C:\Users\ASUS\source\repos\Someindex\Someindex\bin\Debug\net8.0\Someindex.pdb
+C:\Users\ASUS\source\repos\Someindex\Someindex\obj\Debug\net8.0\Someindex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Someindex\Someindex\obj\Debug\net8.0\Someindex.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Someindex\Someindex\obj\Debug\net8.0\Someindex.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Someindex\Someindex\obj\Debug\net8.0\Someindex.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Someindex\Someindex\obj\Debug\net8.0\Someindex.dll
+C:\Users\ASUS\source\repos\Someindex\Someindex\obj\Debug\net8.0\refint\Someindex.dll
+C:\Users\ASUS\source\repos\Someindex\Someindex\obj\Debug\net8.0\Someindex.pdb
+C:\Users\ASUS\source\repos\Someindex\Someindex\obj\Debug\net8.0\Someindex.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Someindex\Someindex\obj\Debug\net8.0\ref\Someindex.dll

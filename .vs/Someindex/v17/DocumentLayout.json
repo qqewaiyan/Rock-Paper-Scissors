@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Someindex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB75EC7-BA7B-4704-84E3-17428CCE18AB}|Someindex\\Someindex.csproj|c:\\users\\asus\\source\\repos\\someindex\\someindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB75EC7-BA7B-4704-84E3-17428CCE18AB}|Someindex\\Someindex.csproj|solutionrelative:someindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Someindex\\Someindex\\Program.cs",
+              "RelativeDocumentMoniker": "Someindex\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Someindex\\Someindex\\Program.cs",
+              "RelativeToolTip": "Someindex\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:21:29.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
